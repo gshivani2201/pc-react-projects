@@ -1,0 +1,1 @@
+This repository includes all the react projects, mini-projects, etc.
